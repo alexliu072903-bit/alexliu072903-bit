@@ -37,6 +37,9 @@ Paper accepted and presented at the **20th Annual Conference of the Internationa
 
 ## ✍️ Writing
 
+**[AI Applications Will Survive — Just Not in Their Current Form](https://alexliu072903-bit.github.io/alexliu.readme/writing/ai-applications-will-survive/?lang=en)**  
+Models will keep absorbing today's features, but infrastructure will not invent the products of the AI era by itself.
+
 **[Two Flywheels: A Management Model Built for AI Startups](https://airjelly.ai/blog/two-flywheels)**  
 A structure I encountered during my first internship — and have continued thinking about since.
 
