@@ -47,7 +47,6 @@ A structure I encountered during my first internship — and have continued thin
 
 - [cairn-context](https://github.com/alexliu072903-bit/cairn-context): lets a new agent session find the confirmed project decisions that matter to the task.
 - [shared-project-context](https://github.com/alexliu072903-bit/shared-project-context): keeps people and agents aligned with goals someone set.
-- [demand-clarifier](https://github.com/alexliu072903-bit/demand-clarifier): helps you think a product idea through before anyone writes a document.
 - [meta-skill-optimizer](https://github.com/alexliu072903-bit/meta-skill-optimizer): reviews a set of Agent Skills as one system.
 - [evidence-first-personal-site](https://github.com/alexliu072903-bit/evidence-first-personal-site): builds a personal website from evidence.
 - [obsidian-ai-starter](https://github.com/alexliu072903-bit/obsidian-ai-starter) and [obsidian-git-sync-skill](https://github.com/alexliu072903-bit/obsidian-git-sync-skill): the Pi agent in an Obsidian vault, and Obsidian-to-GitHub sync.
