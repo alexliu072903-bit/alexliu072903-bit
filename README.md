@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Alex 👋
+# Hi, I'm Alex
 
-**AI Product Manager building context-aware products at [AirJelly](https://airjelly.ai)**
+**AI Product Manager. One of the core product managers of [AirJelly](https://airjelly.ai) 2.0.**
 
 `Agent Context` · `Memory` · `Proactive AI` · `Product Systems`
 
@@ -14,28 +14,28 @@
   <img src="https://alexliu072903-bit.github.io/alexliu.readme/profile/cat-chair.jpg" width="31%" alt="A cat relaxing on a chair" />
 </p>
 
-## 👨‍💻 About me
+## About me
 
-- 🧑‍💻 AI Product Manager Intern at **Low Entropy AI · AirJelly** in Beijing
-- 💼 Previously an AI Research Intern at **Emotional Byte AI Inc.**, a U.S. AI startup, researching Agent interaction patterns and delivering a bilingual social product
-- 🎓 B.Mgmt. in Marketing at **Shenzhen Technology University**, Class of 2027
-- 🧠 Interested in how AI can understand people over time and turn Context into useful action
-- 🧭 Working across product architecture, interaction design, research, and product-engineering collaboration
-- 🗣️ Native Cantonese speaker, former debate-team captain, and usually surrounded by cats
+- One of the core product managers of **AirJelly 2.0**, at **Low Entropy AI** in Beijing
+- Previously an AI Research Intern at **Emotional Byte AI Inc.**, a U.S. AI startup, researching Agent interaction patterns and delivering a bilingual social product
+- B.Mgmt. in Marketing at **Shenzhen Technology University**, Class of 2027
+- Interested in how AI can understand people over time and turn Context into useful action
+- Working across product architecture, interaction design, research, and product-engineering collaboration
+- Native Cantonese speaker, former debate-team captain, and usually surrounded by cats
 
-## 🚀 What I'm working on
+## What I'm working on
 
-At **AirJelly**, I'm helping shape a product system around Agent Context and context consumption: how scattered user Context is composed, ranked, controlled, recalled, and made useful to both users and external Agents.
+At **AirJelly** I work on Agent Context: bringing a user's scattered Context together so external Agents such as Codex and Claude Code can work with the full picture, and the user can see and control what is handed over.
 
-My focus is not adding more AI features. It is making AI assistance feel more continuous, timely, understandable, and controllable.
+I care about AI assistance that feels continuous, timely, understandable, and controllable.
 
-## 🔬 Research
+## Research
 
 **The Reinforcement of the Interaction between High-Speed Rail and Digital Infrastructure on Digital Inclusion-Mental Health: Evidence from China**
 
 Paper accepted and presented at the **20th Annual Conference of the International Association for China Planning (IACP)**, July 2026.
 
-## ✍️ Writing
+## Writing
 
 **[AI Applications Will Survive — Just Not in Their Current Form](https://alexliu072903-bit.github.io/alexliu.readme/writing/ai-applications-will-survive/?lang=en)**  
 Models will keep absorbing today's features, but infrastructure will not invent the products of the AI era by itself.
@@ -43,7 +43,17 @@ Models will keep absorbing today's features, but infrastructure will not invent 
 **[Two Flywheels: A Management Model Built for AI Startups](https://airjelly.ai/blog/two-flywheels)**  
 A structure I encountered during my first internship — and have continued thinking about since.
 
-## 🌐 Find me
+## Open source
+
+- [cairn-context](https://github.com/alexliu072903-bit/cairn-context): lets a new agent session find the confirmed project decisions that matter to the task.
+- [shared-project-context](https://github.com/alexliu072903-bit/shared-project-context): keeps people and agents aligned with goals someone set.
+- [demand-clarifier](https://github.com/alexliu072903-bit/demand-clarifier): helps you think a product idea through before anyone writes a document.
+- [meta-skill-optimizer](https://github.com/alexliu072903-bit/meta-skill-optimizer): reviews a set of Agent Skills as one system.
+- [evidence-first-personal-site](https://github.com/alexliu072903-bit/evidence-first-personal-site): builds a personal website from evidence.
+- [obsidian-ai-starter](https://github.com/alexliu072903-bit/obsidian-ai-starter) and [obsidian-git-sync-skill](https://github.com/alexliu072903-bit/obsidian-git-sync-skill): the Pi agent in an Obsidian vault, and Obsidian-to-GitHub sync.
+- [tg-miniapp-fastbuild](https://github.com/alexliu072903-bit/tg-miniapp-fastbuild): a step-by-step guide to deploying a Telegram Mini App.
+
+## Find me
 
 <p>
   <a href="https://alexliu072903-bit.github.io/alexliu.readme/"><img src="https://img.shields.io/badge/Personal_Website-579260?style=flat-square" alt="Personal website" /></a>
