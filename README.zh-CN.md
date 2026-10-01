@@ -48,7 +48,6 @@
 ## 开源
 
 - [cairn-context](https://github.com/alexliu072903-bit/cairn-context)：让新开的 Agent session 找回与当前任务相关、已经确认过的项目决定。
-- [shared-project-context](https://github.com/alexliu072903-bit/shared-project-context)：让多个人和 Agent 与有人设定的目标保持一致。
 - [evidence-first-personal-site](https://github.com/alexliu072903-bit/evidence-first-personal-site)：基于证据搭建个人网站。
 - [obsidian-ai-starter](https://github.com/alexliu072903-bit/obsidian-ai-starter) 和 [obsidian-git-sync-skill](https://github.com/alexliu072903-bit/obsidian-git-sync-skill)：把 Pi Agent 接入 Obsidian vault，以及把 Obsidian 同步到 GitHub。
 - [tg-miniapp-fastbuild](https://github.com/alexliu072903-bit/tg-miniapp-fastbuild)：部署 Telegram Mini App 的分步指南。
