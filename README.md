@@ -39,9 +39,9 @@ Accepted by the **20th International Association for China Planning Annual Confe
 
 ## Writing
 
-**[After the Personal Agent, Agents Split Three Ways](https://alexliu072903-bit.github.io/alexliu.readme/writing/after-personal-agents/?lang=en)**
+**[After the Personal Agent: Work, Lifestyle, and Entertainment](https://alexliu072903-bit.github.io/alexliu.readme/writing/after-personal-agents/?lang=en)**
 
-Coding, office, and personal agents are carrying the technology from professionals to the public. What comes next may split three ways.
+Work agents may reverse the old logic of assigning an agent to a professional. The resulting demand for human development may then produce lifestyle and entertainment agents.
 
 **[Technology Fades Into the Background. Habits Remain.](https://alexliu072903-bit.github.io/alexliu.readme/writing/technology-fades-habits-remain/?lang=en)**
 

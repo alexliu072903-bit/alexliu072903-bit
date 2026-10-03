@@ -39,9 +39,9 @@
 
 ## 写作
 
-**[Personal Agent 之后，Agent 会分成三条路](https://alexliu072903-bit.github.io/alexliu.readme/writing/after-personal-agents/)**
+**[Personal Agent 之后：Work、Lifestyle 与 Entertainment](https://alexliu072903-bit.github.io/alexliu.readme/writing/after-personal-agents/)**
 
-Coding Agent、办公 Agent、Personal Agent 正把 Agent 从专业开发者带向大众；再往后，它可能分成 Work、Leisure 与 Entertainment。
+Work Agent 正把逻辑从“给专业人配 Agent”反转为“给 Agent 配合适的人”；由此产生的自我提升需求，可能继续推动 Lifestyle 与 Entertainment。
 
 **[技术会退到幕后，但习惯会留下](https://alexliu072903-bit.github.io/alexliu.readme/writing/technology-fades-habits-remain/)**
 
