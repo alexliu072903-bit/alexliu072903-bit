@@ -51,9 +51,9 @@ AI can make an operation disappear within months while leaving a generation with
 
 Models will keep absorbing today's features, but infrastructure does not invent the products of an era by itself.
 
-**[Two Flywheels: A Management Model Built for AI Startups](https://alexliu072903-bit.github.io/alexliu.readme/writing/two-flywheels/?lang=en)**
+**[Two Flywheels: A Management Model for AI Startups](https://alexliu072903-bit.github.io/alexliu.readme/writing/two-flywheels/?lang=en)**
 
-A chance office move during my first internship revealed a way to keep present execution and future exploration moving together.
+A small office move showed me how a company can protect present delivery and future exploration without forcing them into the same daily rhythm.
 
 ## Four core open-source projects
 
