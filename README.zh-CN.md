@@ -39,13 +39,13 @@
 
 ## 写作
 
-**[Personal Agent 之后：三条分化路径](https://alexliu072903-bit.github.io/alexliu.readme/writing/after-personal-agents/)**
+**[Personal Agent 之后，Agent 会分成三条路](https://alexliu072903-bit.github.io/alexliu.readme/writing/after-personal-agents/)**
 
-Agent 正从专业开发者走向更广泛的人群，并可能沿工作、自我发展与娱乐形成不同的产品逻辑。
+Coding Agent、办公 Agent、Personal Agent 正把 Agent 从专业开发者带向大众；再往后，它可能分成 Work、Leisure 与 Entertainment。
 
 **[技术会退到幕后，但习惯会留下](https://alexliu072903-bit.github.io/alexliu.readme/writing/technology-fades-habits-remain/)**
 
-Agent 正在减少人能感知到的操作，却可能长期改变一代人的邮箱、付费和工作习惯。
+AI 可以在几个月里让操作消失，却可能把邮箱、付费和工作习惯留给一代人二十年。
 
 **[AI 应用会活下来，但不会以现在的方式](https://alexliu072903-bit.github.io/alexliu.readme/writing/ai-applications-will-survive/)**
 

@@ -39,13 +39,13 @@ Accepted by the **20th International Association for China Planning Annual Confe
 
 ## Writing
 
-**[After Personal Agents: The Split Between Work, Leisure, and Entertainment](https://alexliu072903-bit.github.io/alexliu.readme/writing/after-personal-agents/?lang=en)**
+**[After the Personal Agent, Agents Split Three Ways](https://alexliu072903-bit.github.io/alexliu.readme/writing/after-personal-agents/?lang=en)**
 
-Agents are moving toward the public and may separate into distinct product logics for work, self-development, and entertainment.
+Coding, office, and personal agents are carrying the technology from professionals to the public. What comes next may split three ways.
 
 **[Technology Fades Into the Background. Habits Remain.](https://alexliu072903-bit.github.io/alexliu.readme/writing/technology-fades-habits-remain/?lang=en)**
 
-Agents are reducing visible operations while reshaping the email, payment, and working habits a generation may carry for decades.
+AI can make an operation disappear within months while leaving a generation with habits that last for decades.
 
 **[AI Applications Will Survive — Just Not in Their Current Form](https://alexliu072903-bit.github.io/alexliu.readme/writing/ai-applications-will-survive/?lang=en)**
 
