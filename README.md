@@ -23,7 +23,7 @@
 - A Marketing undergraduate in the English-taught program at **Shenzhen Technology University**, Class of 2027
 - Interested in how AI can understand a person over time and turn Context into useful action
 - Working across product architecture, interaction design, research, and product–engineering collaboration
-- Native Cantonese speaker, former debate team captain, usually near a cat
+- I speak Cantonese natively, used to captain a debate team, and like cats
 
 ## What I'm working on
 
